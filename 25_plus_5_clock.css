@@ -1,0 +1,73 @@
+body {
+    background-color: #00695C;
+    text-align: center;
+    font-size: 62.5%;
+  }
+  
+  h1 {
+    font-size: 6rem;
+  }
+  
+  h2 {
+    font-size: 3rem;
+  }
+  
+  h3 {
+    font-size: 2rem;
+  }
+  
+  #app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  #adjustment-div {
+    display: flex;
+  }
+  
+  #break-div, #session-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  
+  #break-control, #session-control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    margin: 10px;
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    height: 1.5rem;
+  }
+  
+  i {
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+  
+  #timer-div {
+    border: 5px solid black;
+    border-radius: 50px;
+  }
+  
+  #timer-label, #time-left {
+    margin: 30px;
+  }

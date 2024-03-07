@@ -1,0 +1,1 @@
+# A page with a 25 + 5 clock. It counts down for 25 minutes then sets off an alarm and starts counting down a 5 minute break. The 25 and 5 are just defaults and can be adjusted by the user. This program was produced as part of the Front End Development Libraries course on freeCodeCamp.org. Created by Jacob Hexamer.
